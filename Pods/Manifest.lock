@@ -1,0 +1,15 @@
+PODS:
+  - Cosmos (15.0.0)
+  - FSPagerView (0.7.1)
+
+DEPENDENCIES:
+  - Cosmos (~> 15.0)
+  - FSPagerView
+
+SPEC CHECKSUMS:
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  FSPagerView: 958aba39684e1573755ddcfcc29f7eebb8413cee
+
+PODFILE CHECKSUM: 1d64ec146cb0da535302496b4a8ffdd4456a6592
+
+COCOAPODS: 1.4.0
